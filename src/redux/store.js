@@ -1,3 +1,5 @@
+// a base do redux
+
 import { createStore } from "redux";
 
 import rootReducer from "./root-reducer";
